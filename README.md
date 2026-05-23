@@ -22,7 +22,7 @@ This project builds a machine learning model to predict **customer satisfaction*
 
 The goal of this project is to predict whether an airline customer is **satisfied** or **neutral or dissatisfied** with their flight experience using classification algorithms. Insights from this model can help airlines improve their services and personalize customer experiences.
 
-https://github.com/Gaurav-1111/Airline_Customer_Prediction_Satisfaction/blob/main/Customer_Satisfaction_Prediction%20.jpg
+![image](https://github.com/Gaurav-1111/Airline_Customer_Prediction_Satisfaction/blob/main/Customer_Satisfaction_Prediction%20.jpg)
 
 ---
 
